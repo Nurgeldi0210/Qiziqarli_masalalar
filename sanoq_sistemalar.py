@@ -3,7 +3,7 @@
 Created on Sat Mar  5 15:49:11 2022
 
 @author: Nurik
-a sanoq sistemadan b sanoq sistemaga o'tish
+n sonini a sanoq sistemadan b sanoq sistemaga o'tish
 """
 
 
